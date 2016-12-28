@@ -3,6 +3,8 @@
 
 <h3>Introdução</h3>
 <p>Essence é uma web site para biblioteca simples, mas possui uma facilidade enorme para se localizar registros. A aplicação permite o cadastro de clientes, livros, renovações e reservas. Além do cálculo da multa de 0.50 centavos ao dia quando o cliente ultrapassar o prazo de 14 dias, para a entrega do livro.</p>
+<img src="https://postimg.org/image/8rcep8903/][img]https://s5.postimg.org/8rcep8903/pag_cadastro_cliente.png" width="200">
+
 <hr>
 <h4>Cadastro de Clientes</h4>
 <p>Informar dados básicos como nome, endereço, telefone, email, etc. No momento do cadastro, automaticamente o sistema já reconhece o cliente como <b>ativo</b>. Há possibilidade de realizar alterações em seus dados e o cliente sempre pode consultar suas informações através de seu código único, gerado automaticamente no momento do cadastro.</p>
