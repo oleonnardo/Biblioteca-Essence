@@ -25,8 +25,8 @@
 
 <hr>
 <h4>Empréstimo dos Livros</h4>
-<p>O prazo máximo para o empréstimo é de 14 dias, o cliente pode renovar o empréstimo até duas vezes. Caso o livro esteja em atraso, não será possível realizar a renovação, automaticamente a multa é gerada.O cálculo do valor da multa é 50 centavos é multiplicado por dias em atraso.</p>
+<p>O prazo máximo para o empréstimo é de 14 dias, o cliente pode renovar o empréstimo até duas vezes. Caso o livro esteja em atraso, não será possível realizar a renovação, automaticamente a multa é gerada.O cálculo do valor da multa é 5A centavos é multiplicado por dias em atraso.</p>
 <br><img src="https://s5.postimg.org/m3a7c61ef/pag_confirmacao_do_emprestimo.png" width="800"><br><br>
 
 <hr>
-<p><b>Leonardo araujo<br> Ciência da Computação</b></p>
+<p><b>Leonardo Araujo<br> Ciência da Computação</b></p>
